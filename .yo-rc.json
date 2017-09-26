@@ -1,0 +1,16 @@
+{
+  "generator-ngx-rocket": {
+    "version": "2.1.3",
+    "props": {
+      "appName": "nodetably",
+      "target": [
+        "web"
+      ],
+      "ui": "bootstrap",
+      "auth": false,
+      "projectName": "nodetably",
+      "mobile": [],
+      "webview": []
+    }
+  }
+}
